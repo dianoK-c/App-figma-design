@@ -22,8 +22,8 @@ You can view the interactive design prototype here:
 
 ## 🛠️ Tech Stack (Planned)  
 - Frontend: React Native / Flutter  
-- Backend: Node.js with Express  
-- Database: MongoDB / Firebase  
+- Backend: Node.js / Django
+- Database: Postgre SQL / MySQ:L AWS /Azure  
 - AI Integration: Python (matching engine)  
 - Hosting: GitHub Pages (for demo), Firebase or AWS (future)  
 
